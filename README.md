@@ -1,4 +1,4 @@
-## Solutions Cracking The Coding Interview
+## Solutions to Cracking the Coding Interview
 
 I followed the advise in the book and code a solution first in a plain text editor without any IDE features or highlighting.    
 Solutions are then validated in Compiler Explorer. 
@@ -13,8 +13,11 @@ But to you my dear internet stranger who somehow manged to end up here: feel fre
 
 ### Chapter 1
 
-1. [string has unique chars](https://www.godbolt.org/z/E14vqTE3Y)
+1. [String has unique chars](https://www.godbolt.org/z/E14vqTE3Y)
 2. [Reverse C-Style string](https://www.godbolt.org/z/WjhWehnrP)
 3. [Remove duplicates from string](https://www.godbolt.org/z/x36Yo9dYf)
-3. [string is anagram](https://www.godbolt.org/z/P3rqzEqGa)
-
+4. [String is anagram](https://www.godbolt.org/z/P3rqzEqGa)
+5. [String replace space with %20](https://www.godbolt.org/z/7GfjPPWMM)
+6. [Rotate NxN Matrix, (I did MxN)](https://www.godbolt.org/z/KGnf15db6)
+7. [Matrix set cols&rows zero](https://www.godbolt.org/z/hvsqaeqWM)
+8. [Is string A rotation of String B?](https://www.godbolt.org/z/cMf31Tvzd)
