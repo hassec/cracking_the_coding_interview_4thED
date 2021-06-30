@@ -38,3 +38,6 @@ But to you my dear internet stranger who somehow manged to end up here: feel fre
 1. [3 Stacks, 1 Array](https://www.godbolt.org/z/Kz6sq3n3x)
 2. [3 Stacks, O(1) min element](https://www.godbolt.org/z/1sj5aE6eM)
 3. [Set of Stacks](https://www.godbolt.org/z/vnhnGT8ob)
+4. [Hanoi Stacks](https://www.godbolt.org/z/vGx6TKPq6)
+5. [Queue from Stacks](https://www.godbolt.org/z/G68MM5Ghq)
+6. [Sort a Stack](https://www.godbolt.org/z/jz5K9jdKo)
